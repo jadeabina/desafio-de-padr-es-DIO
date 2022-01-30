@@ -1,6 +1,7 @@
 # Desafio-de-projeto-DIO-Padõres
 
-Esse repositório tem como finalidade de praticas no desenvlvimento do projeto, com a reprodução de codigo apresentada em video aula. 
+Esse repositório tem como finalidade de praticas no desenvolvimento do projeto, com a reprodução do código apresentado na vídeo aula.
+
 
 DESAFIO DE PROJETO DIGITAL INNOVATION ONE...
 
