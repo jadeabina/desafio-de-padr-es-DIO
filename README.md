@@ -1,5 +1,6 @@
 # Desafio-de-projeto-DIO-Padõres
 
+Esse repositório tem como finalidade de praticas no desenvlvimento do projeto. 
 
 DESAFIO DE PROJETO DIGITAL INNOVATION ONE...
 
